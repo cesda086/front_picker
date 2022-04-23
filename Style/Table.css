@@ -1,0 +1,83 @@
+#data_person{
+    border: 3px solid #ddd;
+    display: flexbox;
+    margin-left: 350px;
+    
+}
+
+
+
+#data_person td{
+    border: 3px solid #ddd;
+    padding: 10px;
+    text-align: center;
+    background: blue;
+    font-family: cursive;
+    
+}
+#data_person th{
+    border: 3px solid #ddd;
+    padding: 10px;
+    color:white;
+    background: green;
+    
+}
+#datos{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#data_person .tr_top{
+    background-color: #4caf50;
+    padding: 10px;
+}
+#agregar{
+    border-radius: -25px;
+    color: black;
+    background: green;
+    font-family: cursive;
+    border-style: inset;
+}
+#eliminar{
+    border-radius: -55px;
+    color: black;
+    background: red;
+    font-family: cursive;
+    border-style: inset;
+}
+
+#actualizar{
+    border-radius: -55px;
+    color: black;
+    background: yellow;
+    font-family: cursive;
+    border-style: inset;
+}
+
+#agregar:hover{
+    border-radius: 55px;
+    color: black;
+    background: green;
+    font-family: cursive;
+}
+
+#eliminar:hover{
+    border-radius: 55px;
+    color: black;
+    background: red;
+    font-family: cursive;
+}
+
+#actualizar:hover{
+    border-radius: 55px;
+    color: black;
+    background: yellow;
+    font-family: cursive;
+}
+
+#botones{
+    display: flex;
+    padding: 50px;
+}
+

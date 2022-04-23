@@ -1,0 +1,34 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nombre": "Carolina",
+      "apellido": "Cevallos",
+      "edad": "24"
+    },
+    {
+      "id": 5,
+      "nombre": "CESAR",
+      "apellido": "ZAMBRANO",
+      "edad": "28"
+    },
+    {
+      "id": 6,
+      "nombre": "ADRIANA",
+      "apellido": "ZAMBRANO",
+      "edad": "50"
+    },
+    {
+      "id": 7,
+      "nombre": "NORMA",
+      "apellido": "GARCIA",
+      "edad": "76"
+    },
+    {
+      "id": 8,
+      "nombre": "JOSE",
+      "apellido": "ALVARADO",
+      "edad": "85"
+    }
+  ]
+}

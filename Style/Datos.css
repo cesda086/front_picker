@@ -1,0 +1,161 @@
+.data{
+    border-style:groove;
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    background-image: linear-gradient(to right top, #0906b9, #331bbd, #300cd3, #07059b, #1d0ac9);
+    font-weight: bold;
+    font-family: cursive;
+    text-align: center;
+}
+#data_person{
+    border: 3px solid #ddd;
+}
+
+#data_person td{
+
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+#data_person .tr_top{
+    background-color: #4caf50;
+    padding: 10px;
+}
+
+#data_person th{
+    color: #ffffff;
+    width: 100px;
+}
+
+.content{
+    display: flex;
+}
+
+.column{
+    width: 50%;
+}
+.columntotal{
+    width: 100%;
+}
+
+input {
+    border-radius: 3px;
+    padding: 5px;
+    box-shadow: 0 1px 3px #ddd ;
+    color: black;
+    opacity: 0.6;
+    width: 250px;
+    margin: 10px;
+    height: 25px;
+    font-size: 15px;
+}
+.login{
+    text-align: center;
+    max-width: 280px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+    background-image: linear-gradient(to right top, #2e568a, #295e6e, #264254, #373c25, #262624);
+    border: 2px black solid;
+
+}
+.buttonlogin{
+    background-color: darkblue;
+    border-radius: 3px;
+    color: #ffffff;
+    width: 130px;
+    height: 32px;
+    font-size: 15px;
+    margin: 15px;
+}
+
+.comppass{
+    position: relative;
+    margin: auto;
+}
+
+.imagepass{
+    position: absolute;
+    top: 15px;
+    right: 10px;
+}
+
+.login h2{
+    font-size: 25px;
+    font-family: cursive;
+    
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+}
+
+.Link{
+    
+    margin-bottom: -15px;
+    margin-top: 150px;
+    margin-left: 10px;
+    border: 2px black solid;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: solid;
+    right: 0px;
+    left: 0px;
+    background-color: gray;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+
+.head{
+    
+    margin-top: -90px;
+    margin-bottom: 70px;
+    margin-left: -10px;
+    margin-right: -10px;
+    background-color: rgb(5, 0, 14);
+    border: 2px black solid;
+}
+
+body{
+    background-color: rgb(33, 37, 37);
+}
+
+.logo{
+    margin-bottom: -10px;
+    margin-top: 75px;
+    margin-left: 10px;
+    margin-right: 750px;
+    padding: 10px;
+    text-decoration: none;
+    right: 0px;
+    left: 0px;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+    
+}
+
+.img_logo{
+    border-radius:10px;
+    margin-bottom: -70px;
+    bottom: 50px;  
+    margin-right: 70px;
+}
+
+
+
+.login:hover{
+    border: 2px rgb(10, 111, 245) solid;
+    border-style:hidden;
+   
+}
+
+.head:hover{
+    border: 2px rgb(10, 111, 245) solid;
+}
+  
+  
+
+
+
